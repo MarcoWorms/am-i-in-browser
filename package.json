@@ -1,0 +1,14 @@
+{
+  "name": "is-browser",
+  "version": "1.0.0",
+  "description": "Check if the user is running your script on node or browser environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Marco Guaspari Worms",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^2.5.2"
+  }
+}
