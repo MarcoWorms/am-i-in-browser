@@ -1,4 +1,4 @@
-`npm install is-browser --save`
+`npm install am-i-in-browser --save`
 
 ```javascript
 const isBrowser = require('am-i-in-browser')
