@@ -6,6 +6,10 @@
   "scripts": {
     "test": "jasmine"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MarcoWorms/is-browser"
+  },
   "author": "Marco Guaspari Worms",
   "license": "ISC",
   "devDependencies": {
