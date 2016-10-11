@@ -1,5 +1,5 @@
 {
-  "name": "is-browser",
+  "name": "isbrowser",
   "version": "1.0.0",
   "description": "A function do determine whether your script is running on node or browser environment.",
   "main": "index.js",
